@@ -14,7 +14,7 @@ to make a link
 for images:
 alternatively
 
-![picture](92784ead-4214-42cc-a326-df3e2eba4d5c-Leo.webp)
+![picture](download.png)
 where image.jpg is a file in the repository with the image in it.
 
 For codes:
